@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
-# What part of the website is causing this issue? _______
+# What part of the website is causing this issue? 
+[Answer Here]
 
-# Is the issue causing any other problems elsewhere? _______
+# Is the issue causing any other problems elsewhere?
+[Answer Here]
 
 # Please attach screenshots of the issue below:
+[Screenshots Here]
