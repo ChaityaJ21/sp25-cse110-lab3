@@ -15,6 +15,9 @@ html {
 
 
 :root {
+    
+    --section-margin-top: 20px;
+      
     --main-bg: hsl(210, 50%, 95%);
     --primary-color: #007BFF;
     --color: color(display-p3 0.5 0.2 0.3);
@@ -39,7 +42,7 @@ body {
 }
 
 section {
-    margin-top: 20px; /* long */
+    margin-top: var(--section-margin-top);
     padding: 10px 15px 10px 15px; /* short */
     border: 2px dashed color-mix(in srgb, red 50%, blue 50%);
     border-radius: 8px;
