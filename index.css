@@ -44,7 +44,9 @@ body {
 section {
     margin-top: var(--section-margin-top);
     padding: 10px 15px 10px 15px; /* short */
-    border: 2px dashed color-mix(in srgb, red 50%, blue 50%);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: color-mix(in srgb, red 50%, blue 50%);
     border-radius: 8px;
   }
 
@@ -150,9 +152,8 @@ section:has(audio) {
     background-color: #eef;
   }
 
-form {
-    label {
+form label {
       display: block;
     }
-}
+
   
