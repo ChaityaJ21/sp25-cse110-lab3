@@ -9,6 +9,9 @@
     }
 }
 
+html {
+    background-color: var(--color, #fafafa); /* uses your wide-gamut fallback */
+  }
 
 
 :root {
