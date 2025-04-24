@@ -46,7 +46,7 @@ section {
     padding: 10px 15px 10px 15px; /* short */
     border-width: 2px;
     border-style: dashed;
-    border-color: color-mix(in srgb, red 50%, blue 50%);
+    border-color: purple;
     border-radius: 8px;
   }
 
